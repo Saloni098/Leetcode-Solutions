@@ -5,24 +5,15 @@
 
 
 
-## I will be sharing my leetcode solutions to problems and contests!!
+##### I will be sharing my leetcode solutions to problems and contests!!
 
-<!---- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)-->
+* You may see the progress just by going to the given day.
+* Will be making this repo more vibrant in the coming days (not sure though)!
 
-### Connect with me:
+![MaybeBettyWhiteGIF](https://user-images.githubusercontent.com/83643870/173229266-98c66b14-d41a-406d-934b-abcab136172d.gif)
+
+(Just keeping up this progress is a huge achievement in itself🥹)
 
 
-[![website](./img/twitter-light.svg)](https://twitter.com/layzmaxx#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/layzmaxx#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/saloni-dwivedi-b62262206/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/saloni-dwivedi-b62262206/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/salon_.i#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/salon_.ir#gh-dark-mode-only)
+
 
