@@ -1,0 +1,9 @@
+def maxProfit(self, prices: List[int]) -> int:
+        s=len(prices)
+        minSoFar=prices[0]
+        maxprofit=0
+        for i in range(1, s):
+                minSoFar=min(minSoFar, prices[i])
+                profit=prices[i]-minSoFar
+                maxprofit= max(maxprofit, profit)
+        return maxprofit
